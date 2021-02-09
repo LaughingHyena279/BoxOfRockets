@@ -38,6 +38,11 @@ Once Kerbal Space Program is installed, make sure you run it once. (Get to the m
 10. Make sure to accept the Nexus API request if your browser asks for it.
 11. When Wabbajack completes the installation (you can check the Wabbajack.exe.log to confirm it completed successfully), you may close the program.
 
+## Optional Mods
+The following mods are optional, and can either be left disabled, or you can enable them as you wish:
+MechJeb - Adds autopilot options that can be unlocked as you progress through the tech tree. Seen as 'Cheaty' by many serious KSP players.
+WarpDrive - Adds a simple warp drive, highly suggested if not using KSP Interstellar Extended, as there are many very far away planets and stars.
+KSP Interstellar Extended - Very detailed, and complex mod that adds FTL travel.
 
 **That’s almost it!** Launch MO2 in the install folder, and click the 'Run' button to launch the game/
 From now on, launch the game through MO2. <br>
