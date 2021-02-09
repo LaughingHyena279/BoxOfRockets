@@ -44,6 +44,8 @@ MechJeb - Adds autopilot options that can be unlocked as you progress through th
 WarpDrive - Adds a simple warp drive, highly suggested if not using KSP Interstellar Extended, as there are many very far away planets and stars.
 KSP Interstellar Extended - Very detailed, and complex mod that adds FTL travel.
 
+## Countdown to Launch
+
 **That’s almost it!** Launch MO2 in the install folder, and click the 'Run' button to launch the game/
 From now on, launch the game through MO2. <br>
 
