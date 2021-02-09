@@ -1,4 +1,4 @@
-# To Boldy Go - A Modlist for Kerbal Space Program
+# Box of Rockets - A Modlist for Kerbal Space Program
 
 ## Support Discord
 
@@ -31,8 +31,8 @@ Once Kerbal Space Program is installed, make sure you run it once. (Get to the m
 3. Place the Wabbajack.exe into this new folder.
 4. Launch Wabbajack.exe
 5. Click 'Browse Modlists'
-6. Locate To Boldly Go and click the 'Download Modlist' button
-7. In “Installation Location” choose a blank folder at the root of a drive (example: D:\To Boldly Go). This location CANNOT be where you have the Wabbajack.exe located.
+6. Locate Box of Rockets and click the 'Download Modlist' button
+7. In “Installation Location” choose a blank folder at the root of a drive (example: D:\Box of Rockets). This location CANNOT be where you have the Wabbajack.exe located.
 8. The "Download Location" will update automatically. You can change it if you wish.
 9. Click the "Play" arrow.
 10. Make sure to accept the Nexus API request if your browser asks for it.
@@ -43,6 +43,6 @@ Once Kerbal Space Program is installed, make sure you run it once. (Get to the m
 From now on, launch the game through MO2. <br>
 
 **DISCLAIMER:**
-This list is designed around playing the 'Nightmare' difficulty. You can play it easier, but things will most likely not function as intended. You are also free to add cosmetic mods as you wish at the end of your load order in Frosty Mod Manager, but there is no guarantee that the list will function correctly, and no support will be provided if you do so.
+While KSP is a very moddable game with many mods out there, if you add mods yourself you do so at your own risk. If you wish to suggest a new mod, please do so here: https://forms.gle/xTuy2y8UHQm7VAYSA
 
 A MASSIVE thanks to everyone who supports me on Patreon, Halgari and the Wabbajack team for creating this wonderful too, and everyone who plays and enjoys my lists!
