@@ -50,6 +50,6 @@ KSP Interstellar Extended - Very detailed, and complex mod that adds FTL travel.
 From now on, launch the game through MO2. <br>
 
 **DISCLAIMER:**
-While KSP is a very moddable game with many mods out there, if you add mods yourself you do so at your own risk. If you wish to suggest a new mod, please do so here: https://forms.gle/xTuy2y8UHQm7VAYSA
+While KSP is a very moddable game with many mods out there, if you add mods yourself you do so at your own risk, and no support will be provided. If you wish to suggest a new mod, please do so here: https://forms.gle/xTuy2y8UHQm7VAYSA
 
 A MASSIVE thanks to everyone who supports me on Patreon, Halgari and the Wabbajack team for creating this wonderful too, and everyone who plays and enjoys my lists!
