@@ -49,6 +49,8 @@ KSP Interstellar Extended - Very detailed, and complex mod that adds FTL travel.
 **That’s almost it!** Launch MO2 in the install folder, and click the 'Run' button to launch the game/
 From now on, launch the game through MO2. <br>
 
+Also, make sure your settings are adjusted to match those in the In Game Setup document: https://github.com/LaughingHyena279/BoxOfRockets/blob/main/In%20Game%20Setup
+
 **DISCLAIMER:**
 While KSP is a very moddable game with many mods out there, if you add mods yourself you do so at your own risk, and no support will be provided. If you wish to suggest a new mod, please do so here: https://forms.gle/xTuy2y8UHQm7VAYSA
 
