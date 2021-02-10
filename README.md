@@ -40,9 +40,10 @@ Once Kerbal Space Program is installed, make sure you run it once. (Get to the m
 
 ## Optional Mods
 The following mods are optional, and can either be left disabled, or you can enable them as you wish:
-MechJeb - Adds autopilot options that can be unlocked as you progress through the tech tree. Seen as 'Cheaty' by many serious KSP players.
-WarpDrive - Adds a simple warp drive, highly suggested if not using KSP Interstellar Extended, as there are many very far away planets and stars.
-KSP Interstellar Extended - Very detailed, and complex mod that adds FTL travel.
+- MechJeb - Adds autopilot options that can be unlocked as you progress through the tech tree. Seen as 'Cheaty' by many serious KSP players.
+- WarpDrive - Adds a simple warp drive, highly suggested if not using KSP Interstellar Extended, as there are many very far away planets and stars.
+- KSP Interstellar Extended - Very detailed, and complex mod that adds FTL travel.
+- HyperEdit - A cheat mod which adds some nice things.
 
 ## Countdown to Launch
 
