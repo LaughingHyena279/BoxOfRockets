@@ -17,7 +17,7 @@ Pirated games and mods are not supported
 ## Requirements before installing
 
 - Current build version of Wabbajack. This can be found on the Wabbajack Discord linked above.
-- Clean install of Kerbal Space Program, with all DLCs, Non-negotiable. (I use the Steam Version, so experience on the GoG version may vary)
+- Clean install of Kerbal Space Program. (I use the Steam Version, so experience on the GoG version may vary)
 - 500Mb of spave. Yes, you read that right.
 
 ## Game Preparations
