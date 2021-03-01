@@ -18,7 +18,7 @@ Pirated games and mods are not supported
 
 - Current build version of Wabbajack. This can be found on the Wabbajack Discord linked above.
 - Clean install of Kerbal Space Program. (I use the Steam Version, so experience on the GoG version may vary)
-- 500Mb of spave. Yes, you read that right.
+- 500Mb of space. Yes, you read that right.
 
 ## Game Preparations
 
