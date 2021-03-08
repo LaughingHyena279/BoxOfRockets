@@ -53,6 +53,14 @@ From now on, launch the game through MO2. <br>
 
 Also, make sure your settings are adjusted to match those in the In Game Setup document: https://github.com/LaughingHyena279/BoxOfRockets/blob/main/In%20Game%20Setup.md
 
+## Impotant mods
+These mods are important parts of the Box of Rockets experience, so it's a good idea to take a look at them and see what they are about!
+- Galaxies Unbound - This mod greately expands the universe you can explore! Using either WarpDrive or KSP Interstellar Extened is REQUIRED to get to most of the added planets!
+- Editor Extensions Redux - This mod adds lots of new functions to make building easier/more convenient
+- Near Future mods - These add lots of later game parts to expand your options for spacecraft!
+- Better Time Warp - Adds more options for time warp, so you can better control your game.
+- Kerbal Engineer - Adds lots of great information so you can min/max your space travel experience!
+
 **DISCLAIMER:**
 While KSP is a very moddable game with many mods out there, if you add mods yourself you do so at your own risk, and no support will be provided. If you wish to suggest a new mod, please do so here: https://forms.gle/xTuy2y8UHQm7VAYSA
 
