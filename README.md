@@ -64,4 +64,4 @@ These mods are important parts of the Box of Rockets experience, so it's a good 
 **DISCLAIMER:**
 While KSP is a very moddable game with many mods out there, if you add mods yourself you do so at your own risk, and no support will be provided. If you wish to suggest a new mod, please do so here: https://forms.gle/xTuy2y8UHQm7VAYSA
 
-A MASSIVE thanks to everyone who supports me on Patreon, Halgari and the Wabbajack team for creating this wonderful too, and everyone who plays and enjoys my lists!
+A MASSIVE thanks to everyone who supports me on Patreon, Halgari and the Wabbajack team for creating this wonderful tool, and everyone who plays and enjoys my lists!
