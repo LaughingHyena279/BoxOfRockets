@@ -38,13 +38,18 @@ Once Kerbal Space Program is installed, make sure you run it once. (Get to the m
 10. Make sure to accept the Nexus API request if your browser asks for it.
 11. When Wabbajack completes the installation (you can check the Wabbajack.exe.log to confirm it completed successfully), you may close the program.
 
+## Warp Mods
+Select one of the following mods:
+- WarpDrive - Adds a simple warp drive, highly suggested if not using KSP Interstellar Extended, as there are many very far away planets and stars.
+- KSP Interstellar Extended - Very detailed, and complex mod that adds FTL travel.
+
 ## Optional Mods
 The following mods are optional, and can either be left disabled, or you can enable them as you wish:
 - TweakScale - Allows you to change sizes of many parts in the hangars. Seen as 'Cheaty' by many serious players.
 - MechJeb - Adds autopilot options that can be unlocked as you progress through the tech tree. Also seen as cheaty.
-- WarpDrive - Adds a simple warp drive, highly suggested if not using KSP Interstellar Extended, as there are many very far away planets and stars.
-- KSP Interstellar Extended - Very detailed, and complex mod that adds FTL travel.
 - HyperEdit - A cheat mod which adds some nice things.
+- Real Chute - Adds more realistic parachute simulation, is more complicated and increases difficulty.
+- Kerbal Weather Program - Adds weather simulation, including wind and thermal effects on flight. Makes flight more difficult.
 
 ## Countdown to Launch
 
