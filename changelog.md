@@ -4,7 +4,8 @@
 
 ### Mod Updates
 - Near Future Launch Vehicles - 2.1.3
-- KSP Interstellar Extended - 1.26.25
+- Near Future Propulsion - 1.3.2
+- KSP Interstellar Extended - 1.26.26
 - The Janitors Closet - 0.3.7.6
 - Kopernicus Release 80
 - Real Plume - Stock - 4.0.6
