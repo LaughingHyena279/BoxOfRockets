@@ -1,6 +1,6 @@
 # Box of Rockets Changelog
 
-## 1.1 - Ptolemy (Unreleased)
+## 1.1 - Ptolemy
 
 ### Mod Updates
 - Near Future Launch Vehicles - 2.1.3
