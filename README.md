@@ -18,7 +18,7 @@ Pirated games and mods are not supported
 
 - Current build version of Wabbajack. This can be found on the Wabbajack Discord linked above.
 - Clean install of Kerbal Space Program. (I use the Steam Version, so experience on the GoG version may vary)
-- 2.88GB of space for downloads, 6.33GB for install, for a total of 9.21GB space.
+- 3.16GB of space for downloads, 7.24GB for install, for a total of 10.4GB space.
 
 ## Game Preparations
 
@@ -42,6 +42,7 @@ Once Kerbal Space Program is installed, make sure you run it once. (Get to the m
 Select one of the following mods:
 - WarpDrive - Adds a simple warp drive, highly suggested if not using KSP Interstellar Extended, as there are many very far away planets and stars.
 - KSP Interstellar Extended - Very detailed, and complex mod that adds FTL travel.
+- Blueshift - A middle ground between WarpDrive and KSPIE, it adds more balanced FTL travel that requires you to mine asteriods for fuel to power FTL travel.
 
 ## Optional Mods
 The following mods are optional, and can either be left disabled, or you can enable them as you wish:
