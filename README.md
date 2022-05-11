@@ -4,8 +4,8 @@
 
 <table stlyle="border: none;">
 <tr>
-<td><img src="https://github.com/LaughingHyena279/boston-cream-pie/blob/master/images/image_4.png?raw=true" width="64px" /></td>
-<td><a href="https://discord.gg/wabbajack">Wabbajack</a></td>
+<td><img src="https://raw.githubusercontent.com/LaughingHyena279/BoxOfRockets/main/GitHub.png?raw=true" width="64px" /></td>
+<td><a href="https://discord.gg/DffHKcszfg">The Animonculory</a></td>
 </tr>
 </table>
 
