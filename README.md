@@ -13,12 +13,12 @@
 
 #### Do not contact mod authors directly for support.
 
-All support must be directed to the relevant discussion channel on the Wabbajack Discord.  
+All support must be directed to the relevant discussion channel on the Animonculory discord server
 Pirated games and mods are not supported
 
 ## Requirements before installing
 
-- Current build version of Wabbajack. This can be found on the Wabbajack Discord linked above.
+- Current build version of Wabbajack. This can be found at the Wabbajack Github linked above
 - Clean install of Kerbal Space Program. (I use the Steam Version, so experience on the GoG version may vary)
 - 3.16GB of space for downloads, 7.24GB for install, for a total of 10.4GB space.
 
