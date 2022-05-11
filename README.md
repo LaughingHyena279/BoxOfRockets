@@ -1,6 +1,6 @@
 # Box of Rockets - A Modlist for Kerbal Space Program
 
-## Support Discord
+## Important Links
 
 <table stlyle="border: none;">
 <tr>
